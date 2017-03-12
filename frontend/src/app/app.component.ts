@@ -6,7 +6,7 @@ import {Component, OnInit} from '@angular/core';
     styleUrls: ['./app.component.css']
 })
 export class AppComponent implements OnInit {
-    title = 'Prime NG Datatable Lazy Load Demo';
+    title = 'Angular2 Showcase Project';
     constructor() {
     }
     ngOnInit(): void {
